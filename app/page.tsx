@@ -13,14 +13,14 @@ export default function Page() {
           className="rounded-full border-[2px] border-yellow-500 -ml-2 hover:grayscale transition-all duration-300"
         />
         <div>
-          <p className="text-xl font-semibold">John Doe</p>
-          <p className="text-lg text-gray-400">Student at SLIIT</p>
+          <p className="text-xl font-semibold">Amaya Fernando</p>
+          <p className="text-lg text-gray-400">Software Engineering Undergraduate || SLIIT</p>
         </div>
       </div>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Welcome! 👋
+      <h1 className="mb-8 text-2xl text-yellow-400 font-semibold tracking-tighter">
+        WELCOME TO MY PORTFOLIO! 👋
       </h1>
-      <p className="mb-4">
+      <p className="mb-4 hover:text-blue-100">
         I am a passionate JavaScript developer and full-time student at SLIIT.
         With a year of self-taught coding experience, I enjoy building web
         applications and writing about web development as a part-time blogger.
